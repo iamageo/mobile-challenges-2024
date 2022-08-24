@@ -38,6 +38,14 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Viva Decora](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Viva-Decora-Avalia%C3%A7%C3%B5es-E2779238.htm) | ✅ | ✅ | [Desafio Android](https://github.com/vivadecora/vd-android-test) \ [Desafio IOS](https://github.com/vivadecora/ios-teste)|
 | []() | ✅ | ✅ | [Desafio]()|
 
+## Como contribuir?
+Para colaborar, seja você empresa ou dev, basta submeter um pull request com o preenchimento dos campos da tabela.
+
+Exemplo em Markdown:
+```markdown
+| [Nome empresa](link do glassdor) | Android? ✅ | IOS? ✅ | [Desafio](link do repositório)|
+```
+
 ## License
 ```
   Copyright (c) 2022 Geovani Amaral
