@@ -29,7 +29,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [PicPay](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/PicPay-Avalia%C3%A7%C3%B5es-E2020252.htm) | ✅ | ❌ | [Desafio](https://github.com/mobilepicpay/desafio-android)|
 | [Conductor](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Conductor-Brazil-Avalia%C3%A7%C3%B5es-E1841076.htm) | ✅ | ✅ | [Desafio](https://github.com/marketpayconductor/desafio-mobile)|
 | [Hurb](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Hurb-EI_IE936163.13,17.htm) | ✅ | ✅ | [Desafio](https://github.com/hurbcom/challenge-alpha)|
-| [Ciclic](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm) | ✅ | ✅ | [Desafio Android](https://github.com/ciclic/test-android) / [Desafio IOS](https://github.com/ciclic/test-ios)|
+| [Ciclic](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm) | ✅ | ✅ | [Desafio Android](https://github.com/ciclic/test-android) \ [Desafio IOS](https://github.com/ciclic/test-ios)|
 | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | ✅ | ❌ | [Desafio](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android) |
 | [iCasei](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/iCasei-Avalia%C3%A7%C3%B5es-E2696289.htm) | ✅ | ✅ | [Desafio Android](https://github.com/icasei/teste-android-developer) \ [Desafio IOS](https://github.com/icasei/teste-ios-developer)|
 | [PetLove](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Petlove-EI_IE2483742.13,20.htm) | ✅ | ✅ | [Desafio](https://github.com/petlove/vagas/tree/master/mobile)|
@@ -45,6 +45,28 @@ Exemplo em Markdown:
 ```markdown
 | [Nome empresa](link do glassdor) | Android? ✅ | IOS? ✅ | [Desafio](link do repositório)|
 ```
+
+## Contribuidores 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/iamageo">
+        <img src="https://avatars.githubusercontent.com/u/26925002?v=4" width="100px;" alt="Foto do Geovani Amaral no GitHub"/><br>
+        <sub>
+          <b>Geovani Amaral</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wagarcdev">
+        <img src="https://avatars.githubusercontent.com/u/84655093?v=4" width="100px;" alt="Foto do Wagner Arcieri no GitHub"/><br>
+        <sub>
+          <b>Wagner Arcieri</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## License
 ```
