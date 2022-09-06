@@ -45,6 +45,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [BrightHR](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-BrightHR-EI_IE1089598.13,21.htm) | ✅ | ❌ | [Desafio](https://github.com/brighthr/TechnicalTest.Android)|
 
 
+
 ## Como contribuir?
 Para colaborar, seja você empresa ou dev, basta submeter um pull request com o preenchimento dos campos da tabela.
 
