@@ -43,6 +43,9 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Thortful](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Thortful-EI_IE3301109.13,21.htm) | ✅ | ❌ | [Desafio](https://github.com/mhasanali/ThortfulTest)|
 | [Mango Tech](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Mango-Tech-EI_IE7765167.13,23.htm) | ✅ | ❌ | [Desafio](https://github.com/mango-tech/RickAndMortyApp)|
 | [BrightHR](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-BrightHR-EI_IE1089598.13,21.htm) | ✅ | ❌ | [Desafio](https://github.com/brighthr/TechnicalTest.Android)|
+| [Lemonade Tech](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Lemonade-Brazil-EI_IE2685114.13,28.htm) | ✅ | ❌ | [Desafio](https://github.com/LemonadeTech/DesafioAndroid)|
+| [Máxima Tech](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/M%C3%A1ximaTech-Goi%C3%A2nia-Avalia%C3%A7%C3%B5es-EI_IE2448236.0,10_IL.11,18_IC2398468.htm) | ✅ | ❌ | [Desafio](https://github.com/talentosmaxima/Android)|
+| [Muxi](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-MUXI-EI_IE1376293.13,17.htm) | ✅ | ❌ | [Desafio](https://github.com/muxidev/desafio-android)|
 
 
 
