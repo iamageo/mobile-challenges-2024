@@ -39,6 +39,11 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Aiko Digital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Aiko-Brazil-EI_IE4729801.13,24.htm) | ✅ | ❌ | [Desafio](https://github.com/aikodigital/teste-android-estagio-v1)|
 | [Squad](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Squad-Brazil-EI_IE5388673.13,25.htm) | ✅ | ❌ | [Desafio](https://github.com/squadbr/Desafio-Android)|
 | [AirCall](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Aircall-EI_IE1146674.13,20.htm) | ✅ | ❌ | [Desafio](https://github.com/aircall/android-test)|
+| [Seekers Capital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-SEEKERS-Capital-Group-EI_IE2260850.13,34.htm) | ✅ | ❌ | [Desafio](https://github.com/SeekersAdvisorsLabs/hr-mobile-android-test)|
+| [Thortful](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Thortful-EI_IE3301109.13,21.htm) | ✅ | ❌ | [Desafio](https://github.com/mhasanali/ThortfulTest)|
+| [Mango Tech](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Mango-Tech-EI_IE7765167.13,23.htm) | ✅ | ❌ | [Desafio](https://github.com/mango-tech/RickAndMortyApp)|
+| [BrightHR](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-BrightHR-EI_IE1089598.13,21.htm) | ✅ | ❌ | [Desafio](https://github.com/brighthr/TechnicalTest.Android)|
+
 
 ## Como contribuir?
 Para colaborar, seja você empresa ou dev, basta submeter um pull request com o preenchimento dos campos da tabela.
