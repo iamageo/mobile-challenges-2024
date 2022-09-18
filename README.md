@@ -33,7 +33,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | ✅ | ❌ | [Desafio](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android) |
 | [iCasei](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/iCasei-Avalia%C3%A7%C3%B5es-E2696289.htm) | ✅ | ✅ | [Desafio Android](https://github.com/icasei/teste-android-developer) \ [Desafio IOS](https://github.com/icasei/teste-ios-developer)|
 | [PetLove](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Petlove-EI_IE2483742.13,20.htm) | ✅ | ✅ | [Desafio](https://github.com/petlove/vagas/tree/master/mobile)|
-| Easynvest | ✅ | ❌ | [Desafio](https://github.com/easynvest/teste-android)|
+| [Easynvest](glassdoor.com/Salary/Nubank-Salaries-E827975.htm) | ✅ | ❌ | [Desafio](https://github.com/easynvest/teste-android)|
 | [Goomer](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Goomer-EI_IE2756050.13,19.htm) | ✅ | ❌ | [Desafio](https://github.com/goomerdev/job-dev-android-interview)|
 | [Viva Decora](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Viva-Decora-Avalia%C3%A7%C3%B5es-E2779238.htm) | ✅ | ✅ | [Desafio Android](https://github.com/vivadecora/vd-android-test) \ [Desafio IOS](https://github.com/vivadecora/ios-teste)|
 | [Aiko Digital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Aiko-Brazil-EI_IE4729801.13,24.htm) | ✅ | ❌ | [Desafio](https://github.com/aikodigital/teste-android-estagio-v1)|
