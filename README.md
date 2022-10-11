@@ -47,7 +47,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Máxima Tech](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/M%C3%A1ximaTech-Goi%C3%A2nia-Avalia%C3%A7%C3%B5es-EI_IE2448236.0,10_IL.11,18_IC2398468.htm) | ✅ | ❌ | [Desafio](https://github.com/talentosmaxima/Android)|
 | [Muxi](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-MUXI-EI_IE1376293.13,17.htm) | ✅ | ❌ | [Desafio](https://github.com/muxidev/desafio-android)|
 | [PagCerto](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Paggcerto-EI_IE2661839.13,22.htm) | ✅ | ✅ | [Desafio Android](https://github.com/paggcerto-sa/desafios/blob/master/mobile-android.md) \ [Desafio IOS](https://github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md) |
-
+| [Stoodi](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Stoodi-EI_IE2133850.13,19.htm) | ✅ | ✅ | [Desafio](https://github.com/stoodibr/mobile-challenge) |
 
 ## Como contribuir?
 Para colaborar, seja você empresa ou dev, basta submeter um pull request com o preenchimento dos campos da tabela.
