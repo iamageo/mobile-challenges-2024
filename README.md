@@ -81,6 +81,14 @@ Exemplo em Markdown:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/jkalebe">
+        <img src="https://avatars.githubusercontent.com/u/51409555?v=4" width="100px;" alt="Foto do Jeremias Kalebe no GitHub"/><br>
+        <sub>
+          <b>Jeremias Kalebe</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
