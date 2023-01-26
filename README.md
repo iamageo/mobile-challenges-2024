@@ -52,9 +52,8 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Viva Decora](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Viva-Decora-Avalia%C3%A7%C3%B5es-E2779238.htm) | ✅ | ✅ | [Desafio Android](https://github.com/vivadecora/vd-android-test) \ [Desafio IOS](https://github.com/vivadecora/ios-teste)| 🇧🇷 |
 | [Warren Brasil](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Warren-Avalia%C3%A7%C3%B5es-E2233093.htm) | ✅ | ✅ | [Desafio](https://github.com/warrenbrasil/desafio-warren-mobile)| 🇧🇷 |
 | Capitual |✅|✅| [Desafio](https://github.com/capitual/mobile-challenge) |🇧🇷|
-| [Jeitto](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Jeitto-Meios-de-Pagamento-Avalia%C3%A7%C3%B5es-E2759194.htm) |✅|❌| [Desafio](https://github.com/Jeitto/Android-Challenge) |🇧🇷|
-
-
+| [Jeitto](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Jeitto-Meios-de-Pagamento-Avalia%C3%A7%C3%B5es-E2759194.htm) |✅|❌| [Desafio](https://github.com/Jeitto/Android-Challenge)  |🇧🇷|
+| [Nexaas](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Nexaas-Avalia%C3%A7%C3%B5es-E2754455.htm) |✅|✅| [Desafio Android](https://github.com/myfreecomm/desafio-mobile-android) \ [Desafio IOS](https://github.com/myfreecomm/desafio-mobile-ios) |🇧🇷|
 
 
 ## Como contribuir?
