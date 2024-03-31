@@ -29,6 +29,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [CI&T](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-CI-and-T-EI_IE140265.13,21.htm) | ✅ | ✅ | [Desafio](https://github.com/ciandt-mobile/desafio-mobile)| 🇧🇷 |
 | [Ciclic](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm) | ✅ | ✅ | [Desafio Android](https://github.com/ciclic/test-android) \ [Desafio IOS](https://github.com/ciclic/test-ios)| 🇧🇷 |
 | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | ✅ | ❌ | [Desafio](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android)| 🇧🇷 |
+| [Catho](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Catho-Online-Avalia%C3%A7%C3%B5es-E641546.htm) | ✅ | ✅ | [Desafio](https://github.com/catho/teste-apps)| 🇧🇷 |
 | [Conductor](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Conductor-Brazil-Avalia%C3%A7%C3%B5es-E1841076.htm) | ✅ | ✅ | [Desafio](https://github.com/marketpayconductor/desafio-mobile)| 🇧🇷 |
 | [Easynvest](glassdoor.com/Salary/Nubank-Salaries-E827975.htm) | ✅ | ❌ | [Desafio](https://github.com/easynvest/teste-android)| 🇧🇷 |
 | [Globo](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Globo-Avalia%C3%A7%C3%B5es-E321393.htm) | ✅ | ✅ | [Desafio](https://github.com/globoi/globoplay-desafio-mobile)| 🇧🇷 |
@@ -49,6 +50,7 @@ Abaixo está a lista de desafios, separados pelo nome da empresa, plataformas ac
 | [Stone](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Stone-Avalia%C3%A7%C3%B5es-E1093539.htm) | ✅ | ✅ | [Desafio](https://github.com/stone-payments/desafio-mobile/blob/master/store/README.md)| 🇧🇷 |
 | [Stoodi](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Stoodi-EI_IE2133850.13,19.htm) | ✅ | ✅ | [Desafio](https://github.com/stoodibr/mobile-challenge)| 🇧🇷 |
 | [Thortful](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Thortful-EI_IE3301109.13,21.htm) | ✅ | ❌ | [Desafio](https://github.com/mhasanali/ThortfulTest)| 🇧🇷 |
+| [Thermondo](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Thermondo-EI_IE1166025.13,22.htm) | ✅ | ❌ | [Desafio](https://github.com/thermondo/AndroidCodingChallenge)|🇩🇪|
 | [Viva Decora](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Viva-Decora-Avalia%C3%A7%C3%B5es-E2779238.htm) | ✅ | ✅ | [Desafio Android](https://github.com/vivadecora/vd-android-test) \ [Desafio IOS](https://github.com/vivadecora/ios-teste)| 🇧🇷 |
 | [Warren Brasil](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Warren-Avalia%C3%A7%C3%B5es-E2233093.htm) | ✅ | ✅ | [Desafio](https://github.com/warrenbrasil/desafio-warren-mobile)| 🇧🇷 |
 | [Capitual](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Capitual-EI_IE6416682.13,21.htm) |✅|✅| [Desafio](https://github.com/capitual/mobile-challenge) |🇧🇷|
